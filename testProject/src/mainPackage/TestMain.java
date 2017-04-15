@@ -7,6 +7,8 @@ public class TestMain {
 		System.out.println("Das ist ein Test");
 		
 		System.out.println("hier kommt der andere Test, ready to push :)");
+		//ergänzung für 2. Commit
+		
 	}
 
 }
