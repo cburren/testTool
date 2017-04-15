@@ -6,8 +6,11 @@ public class TestMain {
 		// TODO Auto-generated method stub
 		System.out.println("Das ist ein Test");
 		
-		System.out.println("hier kommt der andere Test, ready to push :)");
-		//ergänzung für 2. Commit
+		//ziemlich viel gelöscht
+		
+		//nach dem Pullrequest
+		
+		// dann kam doch noch etwas dazu
 		
 		
 		// neue Ergänzung in featureTest
