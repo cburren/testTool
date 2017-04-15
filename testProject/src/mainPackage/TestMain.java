@@ -9,6 +9,9 @@ public class TestMain {
 		System.out.println("hier kommt der andere Test, ready to push :)");
 		//ergänzung für 2. Commit
 		
+		
+		// neue Ergänzung in featureTest
+		
 	}
 
 }
