@@ -6,14 +6,17 @@ public class TestMain {
 		// TODO Auto-generated method stub
 		System.out.println("Das ist ein Test");
 		
-		//ziemlich viel gelöscht
+		//ziemlich viel gelï¿½scht
 		
 		//nach dem Pullrequest
 		
 		// dann kam doch noch etwas dazu
 		
 		
-		// neue Ergänzung in featureTest
+		// neue Ergï¿½nzung in featureTest
+
+		
+		//ersteErgÃ¤nzung auf dem Mac
 		
 	}
 
